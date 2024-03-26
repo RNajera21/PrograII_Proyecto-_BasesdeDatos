@@ -1,0 +1,6 @@
+C:\Users\roger\source\repos\PrograII_Proyecto-2_BasesdeDatos\PrograII_Proyecto-2_BasesdeDatos\obj\Debug\net8.0-windows\PrograII_Proyecto_2_BasesdeDatos.Form1.resources
+C:\Users\roger\source\repos\PrograII_Proyecto-2_BasesdeDatos\PrograII_Proyecto-2_BasesdeDatos\obj\Debug\net8.0-windows\PrograII_Proyecto-2_BasesdeDatos.csproj.GenerateResource.cache
+C:\Users\roger\source\repos\PrograII_Proyecto-2_BasesdeDatos\PrograII_Proyecto-2_BasesdeDatos\obj\Debug\net8.0-windows\PrograII_Proyecto-2_BasesdeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roger\source\repos\PrograII_Proyecto-2_BasesdeDatos\PrograII_Proyecto-2_BasesdeDatos\obj\Debug\net8.0-windows\PrograII_Proyecto-2_BasesdeDatos.AssemblyInfoInputs.cache
+C:\Users\roger\source\repos\PrograII_Proyecto-2_BasesdeDatos\PrograII_Proyecto-2_BasesdeDatos\obj\Debug\net8.0-windows\PrograII_Proyecto-2_BasesdeDatos.AssemblyInfo.cs
+C:\Users\roger\source\repos\PrograII_Proyecto-2_BasesdeDatos\PrograII_Proyecto-2_BasesdeDatos\obj\Debug\net8.0-windows\PrograII_Proyecto-2_BasesdeDatos.csproj.CoreCompileInputs.cache
